@@ -26,5 +26,5 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
 #### Swift
-[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) <br>
 [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
