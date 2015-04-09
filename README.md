@@ -4,7 +4,8 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### Android
 [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) <br>
-[JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
+[JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) <br>
+[ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
 #### gists
 [jeffreyjackson/gists](https://github.com/jeffreyjackson/gists)
