@@ -11,3 +11,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### Android
 [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
+
+#### gists
+[jeffreyjackson/gists](https://github.com/jeffreyjackson/gists)
