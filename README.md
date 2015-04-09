@@ -7,6 +7,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 #### Mac OS X
-[jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps)
+[jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) <br>
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
 
