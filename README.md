@@ -9,3 +9,5 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) <br>
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
 
+#### Android
+[pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
