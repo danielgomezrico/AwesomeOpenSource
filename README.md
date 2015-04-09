@@ -4,11 +4,13 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### iOS
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br>
-[cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+[cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br>
+[joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
 #### Mac OS X
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps) <br>
-[jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks)
+[jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
+[joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
 #### Android
 [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
