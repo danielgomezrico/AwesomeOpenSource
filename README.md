@@ -27,4 +27,4 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 
 #### Swift
 [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-
+[Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
