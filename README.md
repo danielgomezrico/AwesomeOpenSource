@@ -2,6 +2,13 @@
 
 Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOpenSource/issues) or [pull requests](https://github.com/AwesomeOpenSource/AwesomeOpenSource/pulls).
 
+#### Android
+[pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) <br>
+[JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
+
+#### gists
+[jeffreyjackson/gists](https://github.com/jeffreyjackson/gists)
+
 #### iOS
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br>
 [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br>
@@ -12,8 +19,3 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
 [joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
-#### Android
-[pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
-
-#### gists
-[jeffreyjackson/gists](https://github.com/jeffreyjackson/gists)
