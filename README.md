@@ -2,6 +2,13 @@
 
 Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOpenSource/issues) or [pull requests](https://github.com/AwesomeOpenSource/AwesomeOpenSource/pulls).
 
+[Android](https://github.com/awesomeopensource/awesomeopensource#android)
+[gists](https://github.com/awesomeopensource/awesomeopensource#gists)
+[GitHub](https://github.com/awesomeopensource/awesomeopensource#github)
+[iOS](https://github.com/awesomeopensource/awesomeopensource#ios)
+[Mac OS X](https://github.com/awesomeopensource/awesomeopensource#mac-os-x)
+[Swift](https://github.com/awesomeopensource/awesomeopensource#swift)
+
 #### Android
 [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) <br>
 [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) <br>
