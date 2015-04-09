@@ -1,4 +1,3 @@
-# AwesomeOpenSource
 ### an awesome list for the awesome lists
 
 Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOpenSource/issues) or [pull requests](https://github.com/AwesomeOpenSource/AwesomeOpenSource/pulls).
