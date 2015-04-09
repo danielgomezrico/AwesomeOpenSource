@@ -25,3 +25,6 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
 [joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
+#### Swift
+[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
