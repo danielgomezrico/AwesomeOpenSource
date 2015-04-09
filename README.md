@@ -11,6 +11,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### gists
 [jeffreyjackson/gists](https://github.com/jeffreyjackson/gists)
 
+#### GitHub
+[Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github)
+
 #### iOS
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br>
 [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br>
