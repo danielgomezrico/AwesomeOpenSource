@@ -32,6 +32,9 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 [jeffreyjackson/mac-frameworks](https://github.com/jeffreyjackson/mac-frameworks) <br>
 [joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
 
+#### PaaS, SaaS, IaaS
+[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+
 #### Swift
 [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) <br>
 [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift)
