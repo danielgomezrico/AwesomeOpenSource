@@ -24,7 +24,7 @@ Feel free to contribute: [issues](https://github.com/AwesomeOpenSource/AwesomeOp
 #### iOS
 [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) <br>
 [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) <br>
-[joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple)
+[joeljfischer/awesome-apple](https://github.com/joeljfischer/awesome-apple) <br>
 [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 
 #### Mac OS X
